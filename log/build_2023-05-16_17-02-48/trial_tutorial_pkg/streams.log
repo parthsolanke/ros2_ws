@@ -1,0 +1,21 @@
+[3.796s] Invoking command in '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/src/trial_tutorial_pkg': PYTHONPATH=/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/prefix_override:/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/trial_tutorial_pkg build --build-base /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build install --record /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/install.log --single-version-externally-managed
+[6.073s] running egg_info
+[6.091s] writing ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/PKG-INFO
+[6.113s] writing dependency_links to ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/dependency_links.txt
+[6.134s] writing entry points to ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/entry_points.txt
+[6.150s] writing requirements to ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/requires.txt
+[6.160s] writing top-level names to ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/top_level.txt
+[6.270s] reading manifest file '../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/SOURCES.txt'
+[6.517s] writing manifest file '../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/SOURCES.txt'
+[6.520s] running build
+[6.522s] running build_py
+[6.666s] running install
+[6.668s] running install_lib
+[7.059s] running install_data
+[7.151s] running install_egg_info
+[7.185s] removing '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages/trial_tutorial_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[7.390s] Copying ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info to /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages/trial_tutorial_pkg-0.0.0-py3.10.egg-info
+[8.272s] running install_scripts
+[8.506s] Installing talker_node script to /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/trial_tutorial_pkg
+[8.558s] writing list of installed files to '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/install.log'
+[8.608s] Invoked command in '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/src/trial_tutorial_pkg' returned '0': PYTHONPATH=/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/prefix_override:/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/trial_tutorial_pkg build --build-base /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build install --record /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/install.log --single-version-externally-managed

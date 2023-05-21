@@ -1,0 +1,35 @@
+[1.729s] Invoking command in '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/src/trial_tutorial_pkg': PYTHONPATH=/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/prefix_override:/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/trial_tutorial_pkg build --build-base /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build install --record /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/install.log --single-version-externally-managed
+[2.665s] running egg_info
+[2.673s] creating ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info
+[2.685s] writing ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/PKG-INFO
+[2.693s] writing dependency_links to ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/dependency_links.txt
+[2.702s] writing entry points to ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/entry_points.txt
+[2.711s] writing requirements to ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/requires.txt
+[2.716s] writing top-level names to ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/top_level.txt
+[2.726s] writing manifest file '../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/SOURCES.txt'
+[2.775s] reading manifest file '../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/SOURCES.txt'
+[2.861s] writing manifest file '../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info/SOURCES.txt'
+[2.866s] running build
+[2.867s] running build_py
+[2.876s] creating /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build
+[2.879s] creating /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build/lib
+[2.882s] creating /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build/lib/trial_tutorial_pkg
+[2.897s] copying trial_tutorial_pkg/__init__.py -> /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build/lib/trial_tutorial_pkg
+[2.919s] running install
+[2.920s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.921s]   warnings.warn(
+[2.923s] running install_lib
+[2.956s] creating /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages/trial_tutorial_pkg
+[2.984s] copying /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build/lib/trial_tutorial_pkg/__init__.py -> /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages/trial_tutorial_pkg
+[3.038s] byte-compiling /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages/trial_tutorial_pkg/__init__.py to __init__.cpython-310.pyc
+[3.088s] running install_data
+[3.100s] creating /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/share/ament_index
+[3.103s] creating /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/share/ament_index/resource_index
+[3.107s] creating /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/share/ament_index/resource_index/packages
+[3.124s] copying resource/trial_tutorial_pkg -> /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/share/ament_index/resource_index/packages
+[3.161s] copying package.xml -> /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/share/trial_tutorial_pkg
+[3.180s] running install_egg_info
+[3.206s] Copying ../../build/trial_tutorial_pkg/trial_tutorial_pkg.egg-info to /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages/trial_tutorial_pkg-0.0.0-py3.10.egg-info
+[3.596s] running install_scripts
+[3.698s] writing list of installed files to '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/install.log'
+[3.732s] Invoked command in '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/src/trial_tutorial_pkg' returned '0': PYTHONPATH=/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/prefix_override:/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/trial_tutorial_pkg build --build-base /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build install --record /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/install.log --single-version-externally-managed

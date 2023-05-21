@@ -1,0 +1,17 @@
+[4.548s] Invoking command in '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg': PYTHONPATH=/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/prefix_override:/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w: /usr/bin/python3 setup.py develop --editable --build-directory /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build --no-deps install_data
+[6.807s] running develop
+[7.458s] running egg_info
+[7.463s] writing trial_tutorial_pkg.egg-info/PKG-INFO
+[7.479s] writing dependency_links to trial_tutorial_pkg.egg-info/dependency_links.txt
+[7.494s] writing entry points to trial_tutorial_pkg.egg-info/entry_points.txt
+[7.509s] writing requirements to trial_tutorial_pkg.egg-info/requires.txt
+[7.513s] writing top-level names to trial_tutorial_pkg.egg-info/top_level.txt
+[7.687s] reading manifest file 'trial_tutorial_pkg.egg-info/SOURCES.txt'
+[7.968s] writing manifest file 'trial_tutorial_pkg.egg-info/SOURCES.txt'
+[8.008s] running build_ext
+[8.023s] Creating /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages/trial-tutorial-pkg.egg-link (link to .)
+[8.105s] Installing talker script to /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/trial_tutorial_pkg
+[8.230s] 
+[8.235s] Installed /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg
+[8.248s] running install_data
+[8.508s] Invoked command in '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg' returned '0': PYTHONPATH=/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/prefix_override:/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w: /usr/bin/python3 setup.py develop --editable --build-directory /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build --no-deps install_data
