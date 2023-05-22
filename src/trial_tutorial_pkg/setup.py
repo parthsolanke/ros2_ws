@@ -22,7 +22,8 @@ setup(
         'console_scripts': [
             "talker = trial_tutorial_pkg.talker_node:main",
             "draw_circle_turtle = trial_tutorial_pkg.draw_circle:main", 
-            "turtle_pose_subscriber = trial_tutorial_pkg.turtle_pose_subscriber:main"
+            "turtle_pose_subscriber = trial_tutorial_pkg.turtle_pose_subscriber:main",
+            "turtlesim_controller = trial_tutorial_pkg.turtlesim_controller:main"
         ],
     },
 )
