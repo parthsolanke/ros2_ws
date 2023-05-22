@@ -1,0 +1,19 @@
+[5.746s] Invoking command in '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg': PYTHONPATH=/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/prefix_override:/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w: /usr/bin/python3 setup.py develop --editable --build-directory /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build --no-deps install_data
+[7.867s] running develop
+[8.471s] running egg_info
+[8.476s] writing trial_tutorial_pkg.egg-info/PKG-INFO
+[8.489s] writing dependency_links to trial_tutorial_pkg.egg-info/dependency_links.txt
+[8.502s] writing entry points to trial_tutorial_pkg.egg-info/entry_points.txt
+[8.516s] writing requirements to trial_tutorial_pkg.egg-info/requires.txt
+[8.520s] writing top-level names to trial_tutorial_pkg.egg-info/top_level.txt
+[8.650s] reading manifest file 'trial_tutorial_pkg.egg-info/SOURCES.txt'
+[8.905s] writing manifest file 'trial_tutorial_pkg.egg-info/SOURCES.txt'
+[8.940s] running build_ext
+[8.953s] Creating /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages/trial-tutorial-pkg.egg-link (link to .)
+[8.997s] Installing circle_turtle script to /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/trial_tutorial_pkg
+[9.058s] Installing talker script to /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/trial_tutorial_pkg
+[9.120s] Installing turtle_pose_subscriber script to /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/trial_tutorial_pkg
+[9.195s] 
+[9.198s] Installed /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg
+[9.206s] running install_data
+[9.367s] Invoked command in '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg' returned '0': PYTHONPATH=/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/prefix_override:/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w: /usr/bin/python3 setup.py develop --editable --build-directory /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build --no-deps install_data
