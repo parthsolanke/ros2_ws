@@ -1,3 +1,0 @@
-[console_scripts]
-talker = trial_tutorial_pkg.talker_node:main
-
