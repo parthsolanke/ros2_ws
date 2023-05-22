@@ -1,0 +1,106 @@
+[0.000000] (-) TimerEvent: {}
+[0.000955] (trial_tutorial_pkg) JobQueued: {'identifier': 'trial_tutorial_pkg', 'dependencies': OrderedDict()}
+[0.001551] (trial_tutorial_pkg) JobStarted: {'identifier': 'trial_tutorial_pkg'}
+[0.094134] (-) TimerEvent: {}
+[0.195653] (-) TimerEvent: {}
+[0.296790] (-) TimerEvent: {}
+[0.397972] (-) TimerEvent: {}
+[0.499386] (-) TimerEvent: {}
+[0.600741] (-) TimerEvent: {}
+[0.701945] (-) TimerEvent: {}
+[0.803413] (-) TimerEvent: {}
+[0.904501] (-) TimerEvent: {}
+[1.005501] (-) TimerEvent: {}
+[1.106572] (-) TimerEvent: {}
+[1.207710] (-) TimerEvent: {}
+[1.308807] (-) TimerEvent: {}
+[1.409948] (-) TimerEvent: {}
+[1.511174] (-) TimerEvent: {}
+[1.612159] (-) TimerEvent: {}
+[1.713417] (-) TimerEvent: {}
+[1.814760] (-) TimerEvent: {}
+[1.915891] (-) TimerEvent: {}
+[2.016935] (-) TimerEvent: {}
+[2.118069] (-) TimerEvent: {}
+[2.219202] (-) TimerEvent: {}
+[2.320391] (-) TimerEvent: {}
+[2.421418] (-) TimerEvent: {}
+[2.522527] (-) TimerEvent: {}
+[2.623725] (-) TimerEvent: {}
+[2.724855] (-) TimerEvent: {}
+[2.826210] (-) TimerEvent: {}
+[2.927563] (-) TimerEvent: {}
+[3.028654] (-) TimerEvent: {}
+[3.129803] (-) TimerEvent: {}
+[3.230717] (-) TimerEvent: {}
+[3.331656] (-) TimerEvent: {}
+[3.432748] (-) TimerEvent: {}
+[3.533901] (-) TimerEvent: {}
+[3.634916] (-) TimerEvent: {}
+[3.735923] (-) TimerEvent: {}
+[3.837001] (-) TimerEvent: {}
+[3.938060] (-) TimerEvent: {}
+[4.026442] (trial_tutorial_pkg) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'develop', '--editable', '--build-directory', '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/build', '--no-deps', 'install_data'], 'cwd': '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'cesty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/cesty/ros2_ws/install/examples_rclcpp_wait_set/lib:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_composition/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/cesty', 'ROS_PYTHON_VERSION': '3', 'WSL_DISTRO_NAME': 'Ubuntu-22.04', '_colcon_cd_root': '/opt/ros/humble/', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/cesty/ros2_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'cesty', 'NAME': 'FabLap', 'WSL_INTEROP': '/run/WSL/8_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/WindowsApps/MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe:/mnt/c/Program Files/Common Files/Oracle/Java/javapath:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/110/Tools/Binn/:/mnt/c/Program Files (x86)/Microsoft SQL Server/120/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/120/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/120/DTS/Binn/:/mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/PuTTY/:/mnt/c/Users/Parth Solanke/cmake-3.25.1-windows-x86_64/cmake-3.25.1-windows-x86_64/bin:/mnt/c/Program Files/Git LFS:/mnt/c/Users/Parth Solanke/AppData/Local/Programs/Python/Python39/Scripts/:/mnt/c/Users/Parth Solanke/AppData/Local/Programs/Python/Python39/:/mnt/c/Users/Parth Solanke/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/Parth Solanke/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/Parth Solanke/AppData/Local/Programs/Python/Python310/Scripts/:/mnt/c/Users/Parth Solanke/AppData/Local/Programs/Python/Python310/:/mnt/c/Users/Parth Solanke/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Parth Solanke/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/MinGW/bin:/mnt/c/Users/Parth Solanke/anaconda3/Scripts:/mnt/c/Program Files/Google Protobuf/bin:/mnt/c/Program Files/Raspberry Pi/Pico SDK v1.5.0/pico-sdk:/mnt/c/Program Files/Java/jdk-19/bin:/mnt/c/Program Files (x86)/Tesseract-OCR:/snap/bin', 'XDG_RUNTIME_DIR': '/mnt/wslg/runtime-dir', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/home/cesty/ros2_ws/install/my_robot_controller:/home/cesty/ros2_ws/install/launch_testing_examples:/home/cesty/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/cesty/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/cesty/ros2_ws/install/examples_rclpy_minimal_service:/home/cesty/ros2_ws/install/examples_rclpy_minimal_publisher:/home/cesty/ros2_ws/install/examples_rclpy_minimal_client:/home/cesty/ros2_ws/install/examples_rclpy_minimal_action_server:/home/cesty/ros2_ws/install/examples_rclpy_minimal_action_client:/home/cesty/ros2_ws/install/examples_rclpy_guard_conditions:/home/cesty/ros2_ws/install/examples_rclpy_executors:/home/cesty/ros2_ws/install/examples_rclcpp_wait_set:/home/cesty/ros2_ws/install/examples_rclcpp_multithreaded_executor:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_timer:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_subscriber:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_service:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_publisher:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_composition:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_client:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_action_server:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_action_client:/home/cesty/ros2_ws/install/examples_rclcpp_cbg_executor:/home/cesty/ros2_ws/install/examples_rclcpp_async_client:/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg/prefix_override:/mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages:/home/cesty/ros2_ws/build/my_robot_controller:/home/cesty/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:/home/cesty/ros2_ws/build/launch_testing_examples:/home/cesty/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:/home/cesty/ros2_ws/build/examples_rclpy_pointcloud_publisher:/home/cesty/ros2_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages:/home/cesty/ros2_ws/build/examples_rclpy_minimal_subscriber:/home/cesty/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:/home/cesty/ros2_ws/build/examples_rclpy_minimal_service:/home/cesty/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:/home/cesty/ros2_ws/build/examples_rclpy_minimal_publisher:/home/cesty/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:/home/cesty/ros2_ws/build/examples_rclpy_minimal_client:/home/cesty/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:/home/cesty/ros2_ws/build/examples_rclpy_minimal_action_server:/home/cesty/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:/home/cesty/ros2_ws/build/examples_rclpy_minimal_action_client:/home/cesty/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:/home/cesty/ros2_ws/build/examples_rclpy_guard_conditions:/home/cesty/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:/home/cesty/ros2_ws/build/examples_rclpy_executors:/home/cesty/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/home/cesty/ros2_ws/install/examples_rclcpp_wait_set:/home/cesty/ros2_ws/install/examples_rclcpp_multithreaded_executor:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_timer:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_subscriber:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_service:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_publisher:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_composition:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_client:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_action_server:/home/cesty/ros2_ws/install/examples_rclcpp_minimal_action_client:/home/cesty/ros2_ws/install/examples_rclcpp_cbg_executor:/home/cesty/ros2_ws/install/examples_rclcpp_async_client', 'WSLENV': ''}, 'shell': False}
+[4.060243] (-) TimerEvent: {}
+[4.161178] (-) TimerEvent: {}
+[4.262138] (-) TimerEvent: {}
+[4.363334] (-) TimerEvent: {}
+[4.464357] (-) TimerEvent: {}
+[4.565454] (-) TimerEvent: {}
+[4.666570] (-) TimerEvent: {}
+[4.767680] (-) TimerEvent: {}
+[4.875061] (-) TimerEvent: {}
+[4.976338] (-) TimerEvent: {}
+[5.077379] (-) TimerEvent: {}
+[5.178388] (-) TimerEvent: {}
+[5.279396] (-) TimerEvent: {}
+[5.380485] (-) TimerEvent: {}
+[5.481666] (-) TimerEvent: {}
+[5.582770] (-) TimerEvent: {}
+[5.683815] (-) TimerEvent: {}
+[5.784870] (-) TimerEvent: {}
+[5.885808] (-) TimerEvent: {}
+[5.986927] (-) TimerEvent: {}
+[5.991685] (trial_tutorial_pkg) StdoutLine: {'line': b'running develop\n'}
+[6.087126] (-) TimerEvent: {}
+[6.188315] (-) TimerEvent: {}
+[6.289304] (-) TimerEvent: {}
+[6.390472] (-) TimerEvent: {}
+[6.491616] (-) TimerEvent: {}
+[6.502551] (trial_tutorial_pkg) StdoutLine: {'line': b'running egg_info\n'}
+[6.506950] (trial_tutorial_pkg) StdoutLine: {'line': b'writing trial_tutorial_pkg.egg-info/PKG-INFO\n'}
+[6.517847] (trial_tutorial_pkg) StdoutLine: {'line': b'writing dependency_links to trial_tutorial_pkg.egg-info/dependency_links.txt\n'}
+[6.528939] (trial_tutorial_pkg) StdoutLine: {'line': b'writing entry points to trial_tutorial_pkg.egg-info/entry_points.txt\n'}
+[6.541332] (trial_tutorial_pkg) StdoutLine: {'line': b'writing requirements to trial_tutorial_pkg.egg-info/requires.txt\n'}
+[6.544139] (trial_tutorial_pkg) StdoutLine: {'line': b'writing top-level names to trial_tutorial_pkg.egg-info/top_level.txt\n'}
+[6.591792] (-) TimerEvent: {}
+[6.681615] (trial_tutorial_pkg) StdoutLine: {'line': b"reading manifest file 'trial_tutorial_pkg.egg-info/SOURCES.txt'\n"}
+[6.691947] (-) TimerEvent: {}
+[6.792954] (-) TimerEvent: {}
+[6.894036] (-) TimerEvent: {}
+[6.951918] (trial_tutorial_pkg) StdoutLine: {'line': b"writing manifest file 'trial_tutorial_pkg.egg-info/SOURCES.txt'\n"}
+[6.985623] (trial_tutorial_pkg) StdoutLine: {'line': b'running build_ext\n'}
+[6.988215] (trial_tutorial_pkg) StdoutLine: {'line': b'Creating /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/python3.10/site-packages/trial-tutorial-pkg.egg-link (link to .)\n'}
+[7.001041] (-) TimerEvent: {}
+[7.039317] (trial_tutorial_pkg) StdoutLine: {'line': b'Installing draw_circle_turtle script to /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/trial_tutorial_pkg\n'}
+[7.095627] (trial_tutorial_pkg) StdoutLine: {'line': b'Installing talker script to /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/trial_tutorial_pkg\n'}
+[7.101183] (-) TimerEvent: {}
+[7.152376] (trial_tutorial_pkg) StdoutLine: {'line': b'Installing turtle_pose_subscriber script to /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/install/trial_tutorial_pkg/lib/trial_tutorial_pkg\n'}
+[7.201369] (-) TimerEvent: {}
+[7.217730] (trial_tutorial_pkg) StdoutLine: {'line': b'\n'}
+[7.220068] (trial_tutorial_pkg) StdoutLine: {'line': b'Installed /mnt/c/Users/Parth Solanke/Documents/dev/ros2_ws/build/trial_tutorial_pkg\n'}
+[7.228312] (trial_tutorial_pkg) StdoutLine: {'line': b'running install_data\n'}
+[7.301529] (-) TimerEvent: {}
+[7.373870] (trial_tutorial_pkg) CommandEnded: {'returncode': 0}
+[7.401664] (-) TimerEvent: {}
+[7.502781] (-) TimerEvent: {}
+[7.603737] (-) TimerEvent: {}
+[7.704751] (-) TimerEvent: {}
+[7.805768] (-) TimerEvent: {}
+[7.906789] (-) TimerEvent: {}
+[8.007850] (-) TimerEvent: {}
+[8.108902] (-) TimerEvent: {}
+[8.209893] (-) TimerEvent: {}
+[8.303611] (trial_tutorial_pkg) JobEnded: {'identifier': 'trial_tutorial_pkg', 'rc': 0}
+[8.324960] (-) TimerEvent: {}
+[8.325645] (-) EventReactorShutdown: {}
